@@ -14,7 +14,6 @@ Pipelines
 
 - [GitLab-Runner Installation and Maintenance](pipelines/gitlab-runner.md)
 
-
 ## More
 
 - [Home](https://esdc-devcop.github.io/)
